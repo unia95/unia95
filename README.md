@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lilly, and I'm an Automation Engineering student.
+- 👀 I’m interested in Robotics, Vision and Autonomous Driving 
+- 🌱 I’m currently learning ROS, OpenCV, how to use advanced simulators and autopilots, but I'm still a newbie :D
